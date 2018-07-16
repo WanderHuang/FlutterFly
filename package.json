@@ -1,0 +1,33 @@
+{
+  "name": "flutter_native",
+  "version": "1.0.0",
+  "description": "Dart & Flutter, let's go!",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WanderHuang/FlutterFly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WanderHuang/FlutterFly/issues"
+  },
+  "homepage": "https://github.com/WanderHuang/FlutterFly#readme",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

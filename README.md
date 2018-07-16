@@ -23,5 +23,8 @@ Dart & Flutter, let's go!
 [官方文档](https://flutter.io/get-started/install/)
 
 ## IMG
-
+- 初始跑通效果图
 ![IMAGE](https://github.com/WanderHuang/FlutterFly/blob/master/docs/img/init.png)
+
+- 形成简单页面(基于TAB 和 GRID)
+![demo](https://github.com/WanderHuang/FlutterFly/blob/master/docs/img/demo_1.gif)

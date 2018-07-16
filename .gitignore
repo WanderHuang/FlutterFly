@@ -11,3 +11,4 @@ build/
 /build
 /.idea
 /android
+/node_modules
